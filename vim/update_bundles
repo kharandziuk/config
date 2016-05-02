@@ -1,12 +1,14 @@
 #!/usr/bin/env ruby
 
 git_bundles = [ 
-  'http://github.com/mattn/emmet-vim.git',
-  'https://github.com/scrooloose/syntastic.git',
-  'https://github.com/kchmck/vim-coffee-script.git',
-  'https://github.com/wlangstroth/vim-racket.git',
-  'https://github.com/derekwyatt/vim-scala.git',
   'git://github.com/tpope/vim-sensible.git',
+  'http://github.com/mattn/emmet-vim.git',
+  'https://github.com/derekwyatt/vim-scala.git',
+  'https://github.com/jelera/vim-javascript-syntax.git',
+  'https://github.com/kchmck/vim-coffee-script.git',
+  'https://github.com/mtscout6/vim-cjsx.git',
+  'https://github.com/scrooloose/syntastic.git',
+  'https://github.com/wlangstroth/vim-racket.git',
 ]
 
 vim_org_scripts = [
